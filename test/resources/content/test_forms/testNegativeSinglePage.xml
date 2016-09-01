@@ -1,0 +1,13 @@
+<PrintJobML version="0.0">
+    <PrintListML version="0.0">
+        <formset id="fpstest_us1040" version="0.0">
+            <form id="f1040v"/>
+        </formset>
+    </PrintListML>
+    <FormML compatibilityVersion="fps.test">
+        <formset id="fpstest_us1040" version="0.0">
+            <form id="f1040v" status="forceNoWatermark">
+            </form>
+        </formset>
+    </FormML>
+</PrintJobML>
